@@ -1,2 +1,2 @@
-# Normalizing_Flows_and_VAEs
-Normalizing flows and variational autoencoders
+# Normalizing Flows and Variational Autoencoders
+
